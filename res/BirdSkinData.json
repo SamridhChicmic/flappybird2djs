@@ -1,0 +1,725 @@
+{
+  "Bird0" : [
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+
+  "Bird1" : [
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+
+  "Bird2" : [
+
+    {
+       "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "true"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+       "status" : "true"
+    },
+
+    {
+      "red" : "153", "green" : "0", "blue" : "0",
+      "status" : "true"
+    },
+    {
+      "red" : "204", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "230", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "51", "blue" : "51",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "20", "blue" : "51",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "204", "blue" : "204",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    }
+
+
+
+  ],
+
+  "Bird3" : [
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    },
+
+    {
+      "red" : "204", "green" : "204", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "255", "green" : "255", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "51",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "102",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "255", "blue" : "153",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "160",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "255", "blue" : "204",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "255", "blue" : "255",
+      "status" : "false"
+    }
+
+  ],
+
+
+  "Bird4" : [
+
+    {
+      "red" : "0", "green" : "100", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "50", "green" : "120", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "140", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "125", "green" : "160", "blue" : "10",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "180", "blue" : "50",
+      "status" : "false"
+    },
+
+    {
+      "red" : "200", "green" : "200", "blue" : "30",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "5", "green" : "220", "blue" : "50",
+      "status" : "false"
+    },
+
+    {
+      "red" : "5", "green" : "240", "blue" : "100",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "15", "green" : "200", "blue" : "60",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "5", "green" : "280", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "5", "green" : "210", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+  "Bird5" : [
+
+    {
+      "red" : "255", "green" : "165", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "100", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "140", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "255", "green" : "160", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "180", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "200", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "220", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "240", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "200", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "255", "green" : "280", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "255", "green" : "210", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+  "Bird6" : [
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "120", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "140", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "100", "green" : "160", "blue" : "10",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "180", "blue" : "50",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "200", "blue" : "30",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "220", "blue" : "50",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "240", "blue" : "100",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "200", "blue" : "60",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "280", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "210", "blue" : "0",
+      "status" : "false"
+    }
+
+  ] ,
+  "Bird7" : [
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    },
+
+    {
+      "red" : "100", "green" : "100", "blue" : "100",
+      "status" : "false"
+    }
+
+  ],
+  "Bird8" : [
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    },
+
+    {
+      "red" : "150", "green" : "130", "blue" : "120",
+      "status" : "false"
+    }
+
+  ],
+  "Bird9" : [
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+
+  "Bird10" : [
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    }
+
+  ],
+  "Bird11" : [
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    },
+
+    {
+      "red" : "0", "green" : "0", "blue" : "0",
+      "status" : "false"
+    }
+
+  ]
+}

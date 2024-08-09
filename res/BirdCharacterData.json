@@ -1,0 +1,80 @@
+{
+  "Bird0" :
+  {
+    "red" : "0", "green" : "0", "blue" : "0",
+    "status": "true"
+
+
+  },
+  "Bird1" :
+  {
+    "red" : "0", "green" : "0", "blue" : "0",
+    "status" : "true"
+  },
+  "Bird2" :
+    {
+      "red" : "240", "green" : "0", "blue" : "0",
+      "character"       : "Foxy",
+      "frameLength"     : "3",
+      "animationPlist"  : "Foxy_Animation_Plist",
+      "status" : "true"
+
+    },
+  "Bird3" :
+    {
+      "red" : "255", "green" : "255", "blue" : "153",
+      "character" : "BunBun",
+      "frameLength"     : "3",
+      "animationPlist"  : "Foxy_Animation_Plist",
+      "status" : "false"
+    },
+  "Bird4" :
+    {
+      "red" : "50", "green" : "205", "blue" : "50",
+      "character" : "Parrie",
+      "frameLength"     : "3",
+      "animationPlist"  : "Foxy_Animation_Plist",
+      "status" : "false"
+    },
+  "Bird5" :
+    {
+      "red" : "255", "green" : "140", "blue" : "10",
+      "character" : "Salmie",
+      "frameLength"     : "3",
+      "animationPlist"  : "Foxy_Animation_Plist",
+      "status" : "false"
+    },
+  "Bird6" :
+    {
+      "red" : "0", "green" : "100", "blue" : "10",
+      "character" : "Ellie",
+      "frameLength"     : "3",
+      "animationPlist"  : "Foxy_Animation_Plist",
+      "status" : "false"
+    },
+  "Bird7" :
+    {
+	 "red" : "100", "green" : "100", "blue" : "100",
+     "status" : "false"
+    },
+  "Bird8" :
+     {
+	 "red" : "150", "green" : "130", "blue" : "120",
+     "status" : "false"
+    },
+  "Bird9" :
+  {
+    "red" : "0", "green" : "0", "blue" : "0",
+    "status" : "false"
+  },
+  "Bird10" :
+  {
+    "red" : "0", "green" : "0", "blue" : "0",
+    "status" : "false"
+  },
+  "Bird11" :
+  {
+    "red" : "0", "green" : "0", "blue" : "0",
+    "status" : "false"
+  }
+}

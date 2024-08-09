@@ -1,0 +1,66 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS"   : true,
+    "frameRate" : 60,
+    "noCache"   : false,
+    "id"        : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+
+
+    "modules" : ["cocos2d","external","extensions"],
+
+    "jsList" : [
+        "src/Base/FBBaseLayer.js",
+        "src/Base/FBBaseColorLayer.js",
+        "src/Base/FBPhysicsBody.js",
+        "src/Base/FBBaseScene.js",
+        "src/Base/FBGameState.js",
+
+        "src/GB2ShapeCache.js",
+        "src/IntroScene/FBIntroScene.js",
+        
+        "src/Model/FBLeaderBoardDataModel.js",
+        "src/Model/FBQuestionnaireData.js",
+        "src/Model/FBAnswerResponse.js",
+        "src/Model/FBUserCorrectAnswer.js",
+        "src/Model/FBCharacterDataModel.js",
+
+        "src/Utility/FBNetworkManager.js",
+        "src/Utility/FBConstants.js",
+        "src/Utility/FBPipeConfig.js",
+        "src/Utility/FBBirdConfig.js",
+        "src/Utility/Utility.js",
+        "src/Utility/StringConstants.js",
+        "src/Utility/AlertBoxLayer.js",
+        "src/Utility/FBProcessIndicator.js",
+
+        "src/HomeScene/FBCharacterLayer.js",
+        "src/HomeScene/FBCharacterSelectionLayer.js",
+        "src/HomeScene/FBHomeScene.js",
+        "src/HomeScene/FBHowToPlayScene.js",
+        "src/HomeScene/FBLeaderBoardLayer.js",
+        "src/HomeScene/FBRateUsPopUpLayer.js",
+        "src/HomeScene/FBUnlockLayer.js",
+        "src/HomeScene/LeaderBoardDataLayer.js",
+        "src/HomeScene/FBCharacterInfoLayer.js",
+
+        "src/View/FBBird.js",
+        "src/View/FBHUDLayer.js",
+        "src/View/FBHumanObstacles.js",
+        "src/View/FBPipes.js",
+        "src/View/FBQuestionAlert.js",
+        "src/View/FBTips.js",
+        "src/View/FBScroller.js",
+
+
+        "src/SummeryScene/FBSummeryLayer.js",
+        "src/GamePlay/FBGamePlay.js",
+        "src/SummeryScene/FBScoreSubmissionLayer.js",
+        "src/SummeryScene/FBTipResultLayer.js",
+        "src/SoundManager/SoundManager.js",
+        "src/resource.js"
+    ]
+}
